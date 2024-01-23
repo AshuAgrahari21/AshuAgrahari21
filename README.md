@@ -1,7 +1,7 @@
 # AshuAgrahari12
 
 <h1 align="center">Hi 👋, I'm Ashu Agrahari</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate java developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuagrahari21&label=Profile%20views&color=0e75b6&style=flat" alt="ashuagrahari21" /> </p>
 
