@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and java.
 
 <!--
 - 🔭 I’m currently working on ...
